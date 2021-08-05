@@ -1,0 +1,27 @@
+{
+	"name": "Elsie",
+	"description": "... ",
+	"image": "https://raw.githubusercontent.com/Sirfalus/NFTmon/main/app/src/png/Anima_00006.png",
+	"attributes": [
+		{
+			"trait_type": "Level",
+			"value": 1
+		},
+		{
+			"trait_type": "Str",
+			"value": 1
+		},
+		{
+			"trait_type": "Def",
+			"value": 6
+		},
+		{
+			"trait_type": "Luck",
+			"value": 5
+		},
+		{
+			"trait_type": "Rarity",
+			"value": "Rare"
+		}
+	]
+}
